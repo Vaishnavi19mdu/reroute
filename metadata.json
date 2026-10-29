@@ -1,0 +1,6 @@
+{
+  "name": "ReRoute — Waste to Worth",
+  "description": "AI-powered agricultural waste exchange and circular resource platform connecting farmers, buyers, and logistics partners to turn underused residues into valuable resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
